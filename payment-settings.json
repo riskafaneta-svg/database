@@ -1,0 +1,12 @@
+{
+  "banks": [],
+  "ewallets": [
+    {
+      "provider": "Dana",
+      "holder": "Fariyah",
+      "number": "087828072628"
+    }
+  ],
+  "qrisImageUrl": "",
+  "instructions": ""
+}
