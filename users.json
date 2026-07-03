@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "username": "Owner",
+    "passHash": "16f3d64fc1bb91ca3d8967da29e3605a75a38674eeeeb29778ad002049aa92b6",
+    "role": "user",
+    "balance": 0,
+    "mutations": [],
+    "createdAt": "2026-07-03T00:23:37.590Z"
+  }
+]
