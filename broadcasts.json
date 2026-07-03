@@ -14,5 +14,13 @@
     "targetUsername": "devv",
     "type": "reject",
     "createdAt": "2026-07-03T11:53:24.522Z"
+  },
+  {
+    "id": "nt1783079743240uxemv",
+    "title": "Promo",
+    "message": "Ada promo baru untuk paket VPS, buruan sebelum kehabisan!",
+    "targetUsername": null,
+    "type": "promo",
+    "createdAt": "2026-07-03T11:55:43.240Z"
   }
 ]
