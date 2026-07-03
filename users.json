@@ -38,5 +38,13 @@
     "balance": 0,
     "mutations": [],
     "createdAt": "2026-07-03T02:18:14.389Z"
+  },
+  {
+    "username": "ali311",
+    "passHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "role": "user",
+    "balance": 0,
+    "mutations": [],
+    "createdAt": "2026-07-03T02:19:26.480Z"
   }
 ]
