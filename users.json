@@ -24,14 +24,6 @@
     "createdAt": "2026-07-03T06:37:43.135Z"
   },
   {
-    "username": "sli123",
-    "passHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
-    "role": "user",
-    "balance": 0,
-    "mutations": [],
-    "createdAt": "2026-07-03T06:38:49.667Z"
-  },
-  {
     "username": "dev",
     "passHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
     "role": "owner",
