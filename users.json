@@ -51,7 +51,7 @@
     "username": "ali311",
     "passHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
     "role": "user",
-    "balance": 5000,
+    "balance": 10000,
     "mutations": [
       {
         "type": "in",
@@ -59,6 +59,13 @@
         "desc": "Topup QRIS #tp1783045198009goioh",
         "time": "2026-07-03T02:20:15.058Z",
         "balanceAfter": 5000
+      },
+      {
+        "type": "in",
+        "amount": 5000,
+        "desc": "Done",
+        "time": "2026-07-03T02:23:00.571Z",
+        "balanceAfter": 10000
       }
     ],
     "createdAt": "2026-07-03T02:19:26.480Z"
