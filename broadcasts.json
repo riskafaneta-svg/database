@@ -6,5 +6,13 @@
     "targetUsername": null,
     "type": "promo",
     "createdAt": "2026-07-03T06:35:40.727Z"
+  },
+  {
+    "id": "nt1783079604522f8kxt",
+    "title": "Pesanan \"Vps digital ocean\" ditolak",
+    "message": "Konfirmasi pembayaran untuk Vps digital ocean belum bisa kami verifikasi. Silakan hubungi Owner.",
+    "targetUsername": "devv",
+    "type": "reject",
+    "createdAt": "2026-07-03T11:53:24.522Z"
   }
 ]
