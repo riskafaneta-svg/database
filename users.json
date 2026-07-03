@@ -30,5 +30,13 @@
     "balance": 0,
     "mutations": [],
     "createdAt": "2026-07-03T00:46:01.659Z"
+  },
+  {
+    "username": "arilegi032",
+    "passHash": "c9e92b6fcfd621bb3f356077c2bb1c1b4a364a99a4916bf0a2c7caf671f9566b",
+    "role": "owner",
+    "balance": 0,
+    "mutations": [],
+    "createdAt": "2026-07-03T02:18:14.389Z"
   }
 ]
