@@ -6,5 +6,13 @@
     "balance": 0,
     "mutations": [],
     "createdAt": "2026-07-03T00:23:37.590Z"
+  },
+  {
+    "username": "Jean",
+    "passHash": "07334386287751ba02a4588c1a0875dbd074a61bd9e6ab7c48d244eacd0c99e0",
+    "role": "user",
+    "balance": 0,
+    "mutations": [],
+    "createdAt": "2026-07-03T00:41:15.748Z"
   }
 ]
