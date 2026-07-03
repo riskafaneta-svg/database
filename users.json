@@ -30,5 +30,13 @@
     "balance": 0,
     "mutations": [],
     "createdAt": "2026-07-03T06:38:49.667Z"
+  },
+  {
+    "username": "dev",
+    "passHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "role": "owner",
+    "balance": 0,
+    "mutations": [],
+    "createdAt": "2026-07-03T06:41:01.828Z"
   }
 ]
