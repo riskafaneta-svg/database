@@ -1,1 +1,12 @@
-[]
+{
+  "usdToIdr": 16500,
+  "markupPercent": 25,
+  "promo": {
+    "active": true,
+    "type": "percent",
+    "value": 10,
+    "label": "Promo",
+    "expiresAt": ""
+  },
+  "overrides": {}
+}
