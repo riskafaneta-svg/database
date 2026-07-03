@@ -1,80 +1,10 @@
 [
   {
-    "username": "Owner",
-    "passHash": "16f3d64fc1bb91ca3d8967da29e3605a75a38674eeeeb29778ad002049aa92b6",
-    "role": "user",
-    "balance": 25000,
-    "mutations": [
-      {
-        "type": "in",
-        "amount": 25000,
-        "desc": "dana masuk",
-        "time": "2026-07-03T02:22:36.035Z",
-        "balanceAfter": 25000
-      }
-    ],
-    "createdAt": "2026-07-03T00:23:37.590Z"
-  },
-  {
-    "username": "Jean",
-    "passHash": "07334386287751ba02a4588c1a0875dbd074a61bd9e6ab7c48d244eacd0c99e0",
-    "role": "user",
-    "balance": 0,
-    "mutations": [],
-    "createdAt": "2026-07-03T00:41:15.748Z"
-  },
-  {
-    "username": "Rose",
-    "passHash": "16f3d64fc1bb91ca3d8967da29e3605a75a38674eeeeb29778ad002049aa92b6",
-    "role": "user",
-    "balance": 0,
-    "mutations": [],
-    "createdAt": "2026-07-03T00:45:16.084Z"
-  },
-  {
-    "username": "arilegi031",
-    "passHash": "9a91d1c5d3d3c433dca6130da619d236a4b88889363e1535b9f6a011c1aa3c77",
-    "role": "user",
-    "balance": 0,
-    "mutations": [],
-    "createdAt": "2026-07-03T00:46:01.659Z"
-  },
-  {
     "username": "arilegi032",
     "passHash": "c9e92b6fcfd621bb3f356077c2bb1c1b4a364a99a4916bf0a2c7caf671f9566b",
     "role": "owner",
     "balance": 0,
     "mutations": [],
     "createdAt": "2026-07-03T02:18:14.389Z"
-  },
-  {
-    "username": "ali311",
-    "passHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
-    "role": "user",
-    "balance": 510000,
-    "mutations": [
-      {
-        "type": "in",
-        "amount": 5000,
-        "desc": "Topup QRIS #tp1783045198009goioh",
-        "time": "2026-07-03T02:20:15.058Z",
-        "balanceAfter": 5000
-      },
-      {
-        "type": "in",
-        "amount": 5000,
-        "desc": "Done",
-        "time": "2026-07-03T02:23:00.571Z",
-        "balanceAfter": 10000
-      },
-      {
-        "type": "in",
-        "amount": 500000,
-        "desc": "Topup QRIS #tp1783045454668cqam9",
-        "time": "2026-07-03T02:25:00.722Z",
-        "balanceAfter": 510000
-      }
-    ],
-    "createdAt": "2026-07-03T02:19:26.480Z"
   }
 ]
